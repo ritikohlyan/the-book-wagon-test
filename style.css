@@ -289,7 +289,7 @@ ul li{
 .testimonial-section{
 
 
-    display: none;
+    /* display: none; */
     background-color: #FF8282;
 
     padding: 60px 0;
