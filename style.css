@@ -111,7 +111,7 @@ ul li{
 }
 
 #toggle:checked ~ ul{
-    height: 22rem;
+    height: 18rem;
     padding: 40px;
 
 }
