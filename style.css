@@ -752,3 +752,23 @@ form input{
     }
 
 }
+
+/*                      Thankyou page page                        */
+
+.flex-content{
+    width: 500px;
+}
+
+.flex-wrapper{
+    display: flex;
+    /* align-content: center; */
+    justify-content: center;
+}
+
+.flex-wrapper h1{
+    text-align: center;
+}
+
+.flex-wrapper a{
+    text-align: center;
+}
