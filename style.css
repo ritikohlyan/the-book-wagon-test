@@ -351,6 +351,7 @@ ul li{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    margin-top: 10px;
 }
 
 .slider-nav a{
